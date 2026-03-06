@@ -18,7 +18,7 @@ html {
 
 /* ── Page background ──────────────────────────────── */
 body {
-  background: linear-gradient(135deg, #f0f9ff 0%, #ffffff 40%, #f8fafc 70%, #ecfdf5 100%);
+  background: linear-gradient(135deg, #bae6fd 0%, #e2e8f0 40%, #cbd5e1 70%, #bbf7d0 100%);
   min-height: 100vh;
 }
 
@@ -28,7 +28,7 @@ body {
   height: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: #f0f9ff;
+  background: #f1f5f9;
 }
 ::-webkit-scrollbar-thumb {
   background: linear-gradient(to bottom, #0ea5e9, #10b981);
@@ -98,7 +98,7 @@ body {
 
 /* ── Section background stripes ──────────────────── */
 .section-alt {
-  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  background: linear-gradient(135deg, #bae6fd 0%, #7dd3fc 100%);
   margin-left: -6rem;
   margin-right: -6rem;
   padding-left: 6rem;

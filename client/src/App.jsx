@@ -28,7 +28,7 @@ const App = () => {
       className="text-default min-h-screen text-gray-700 relative overflow-x-hidden"
       style={{
         background:
-          "linear-gradient(135deg, #f0f9ff 0%, #ffffff 45%, #f8fafc 75%, #ecfdf5 100%)",
+          "linear-gradient(135deg, #bae6fd 0%, #e2e8f0 45%, #cbd5e1 75%, #bbf7d0 100%)",
       }}
     >
       {/* Decorative background blobs */}
